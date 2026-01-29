@@ -18,12 +18,3 @@ leafmap
 pystac-client
 odc-stac
 pyarrow-hotfix
-
-
-
-
-
-
-
-
-
